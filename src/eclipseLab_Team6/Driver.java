@@ -16,6 +16,8 @@ public class Driver {
 		Sad frown = new Sad();
 		
 		frown.Sad();
+		
+		food.notHungry();
 	}
 
 }
