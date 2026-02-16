@@ -16,6 +16,7 @@ public class Driver {
 		Sad frown = new Sad();
 		
 		frown.Sad();
+		frown.SuperSad();
 	}
 
 }
