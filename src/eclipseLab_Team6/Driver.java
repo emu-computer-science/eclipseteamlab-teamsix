@@ -17,7 +17,11 @@ public class Driver {
 		
 		frown.Sad();
 		
+
 		food.notHungry();
+
+		student.Sing();
+
 	}
 
 }
