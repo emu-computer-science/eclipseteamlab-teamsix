@@ -5,4 +5,8 @@ public class Glad {
 	public static void Glad () {
 		System.out.println("Lets do the glad dance!");
 	}
+	
+	public static void Sing () {
+		System.out.println("We're singin' in the rain.");
+	}
 }
