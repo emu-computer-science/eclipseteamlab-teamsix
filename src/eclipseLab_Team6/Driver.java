@@ -8,6 +8,10 @@ public class Driver {
 		Hungry food = new Hungry();
 		
 		food.Hungry();
+		
+		Glad student = new Glad();
+		
+		student.Glad();
 	}
 
 }
