@@ -12,6 +12,10 @@ public class Driver {
 		Glad student = new Glad();
 		
 		student.Glad();
+		
+		Sad frown = new Sad();
+		
+		frown.Sad();
 	}
 
 }
